@@ -1,5 +1,20 @@
-#######
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
 
-yaha youtube ki cookie paste kre 
-isko cut krke
-jesa video me btaya hai
+.youtube.com	TRUE	/	TRUE	1779564203	LOGIN_INFO	AFmmF2swRQIhALrwOhSR4AnvTaYCYVkKPZvsdkmqtvZho5Hajs2OnypuAiBhFiefVYX9dRur6VgLCm3HljKIkwoj7L713RlIiO_wSA:QUQ3MjNmeDhxMTJfVTlMYUlrUTU2WmRUT3cybjBUdjNfRnRrbWJ4d1B3T3ZiUzhFaVpKa0JHamJSWjlqZnBJTnlta0dNdGxVZUZwRnc1Z18tZzJhTjNCWEVoMHNKTGs0TnIyNEJnSUNaVDcwMlVZd2htcWxEUG82Qnpkd2JNRl92dnZnR0JTQXhOa1lXTWYxS1RKdkcweGN2cmthOEdBUGFB
+.youtube.com	TRUE	/	TRUE	1783277561	PREF	tz=Asia.Karachi&f6=40000000
+.youtube.com	TRUE	/	TRUE	1779891207	__Secure-1PSIDTS	sidts-CjIB5H03P9e4XUDdEIirl-fjLGyEZD_d8r5nCucBZiuVGn4pyXRu-A2IndwxvSVnYasWURAA
+.youtube.com	TRUE	/	TRUE	1779891207	__Secure-3PSIDTS	sidts-CjIB5H03P9e4XUDdEIirl-fjLGyEZD_d8r5nCucBZiuVGn4pyXRu-A2IndwxvSVnYasWURAA
+.youtube.com	TRUE	/	FALSE	1782927256	HSID	A9f1G4Yuiu5az0YGd
+.youtube.com	TRUE	/	TRUE	1782927256	SSID	AhZeRE1IlpjbPmFt_
+.youtube.com	TRUE	/	FALSE	1782927256	APISID	4_ORhiTRXGgeHyI7/A12eaY1E24c-VHjMb
+.youtube.com	TRUE	/	TRUE	1782927256	SAPISID	_iCR-rJelyBBFr69/A2XnsscYkljTMNuf1
+.youtube.com	TRUE	/	TRUE	1782927256	__Secure-1PAPISID	_iCR-rJelyBBFr69/A2XnsscYkljTMNuf1
+.youtube.com	TRUE	/	TRUE	1782927256	__Secure-3PAPISID	_iCR-rJelyBBFr69/A2XnsscYkljTMNuf1
+.youtube.com	TRUE	/	FALSE	1782927256	SID	g.a000xQjXt6hk4rOnQw6zStIigqOWlGhI_pDvJFQt0EYOIxilT9i2RjIiWfZzIs2n4rO5YFETzwACgYKATUSARISFQHGX2MiiQJTfzQcVGWIb3Q8KP-JpxoVAUF8yKrob3YJJVUuHa1oYsaMpc5V0076
+.youtube.com	TRUE	/	TRUE	1782927256	__Secure-1PSID	g.a000xQjXt6hk4rOnQw6zStIigqOWlGhI_pDvJFQt0EYOIxilT9i2w-sslnNNhiJzL12I5B_qBgACgYKAS4SARISFQHGX2MiBN7dX4019ZXo1WJngMjYZxoVAUF8yKr686Ct3tpnhiZ9gMOv99WE0076
+.youtube.com	TRUE	/	TRUE	1782927256	__Secure-3PSID	g.a000xQjXt6hk4rOnQw6zStIigqOWlGhI_pDvJFQt0EYOIxilT9i2R_CjC8V1ZzVD-j2_DOqrbAACgYKAcESARISFQHGX2Mi_CMztJt8avcRAFa1uUvqlxoVAUF8yKoNPUDRO1_uE68zXe7IhSqs0076
+.youtube.com	TRUE	/	FALSE	1780253564	SIDCC	AKEyXzULmpe8xGKxFwoPojJvLKCgMmhaCf9rSwJczvc1LYlDAMvDlQrivbCUvT5ePa_MLwKG
+.youtube.com	TRUE	/	TRUE	1780253564	__Secure-1PSIDCC	AKEyXzWbT6kWp90xvytbgtCogY6NPID-PPsNRIUx1To10F3yldKQmdgC-5HjPkhLO6_wotTo
+.youtube.com	TRUE	/	TRUE	1780253564	__Secure-3PSIDCC	AKEyXzVlG_nycC-fFcZjG58KqqnoU2g7cu0cvP23XinqFErdYqjr8uJHQ8nXy83ROda6r0CH9w
