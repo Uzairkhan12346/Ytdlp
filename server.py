@@ -44,7 +44,7 @@ def download_audio():
 
     try:
         subprocess.run(command, check=True)
-        return jsonify({"file_url": f"http://mirrykal.onrender.com/static/{unique_filename}", "message": "Download successful"})
+        return jsonify({"file_url": f"https://uzairmtx-ai-api-key-y6yc.onrender.com/static/{unique_filename}", "message": "Download successful"})
     except subprocess.CalledProcessError as e:
         return jsonify({"error": str(e)}), 500
 
